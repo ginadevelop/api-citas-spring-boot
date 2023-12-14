@@ -102,6 +102,6 @@ inicialmente, luego siga las instrucciones indicadas:
 ![Xampp gif doctor](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2x5NmxyaTc0ZDZvNm5hbWhuYmdtNnU3OTY1Z2drNnBld3Z3MW1mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oAJE0alCwJXciu4pCX/giphy.gif)
 
 
-<hr>
 
-Los gifs son creados gracias a <a><a/>
+
+
