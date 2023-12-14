@@ -89,7 +89,8 @@ inicialmente, luego siga las instrucciones indicadas:
 
 # Paciente
 
-![Gif pacientes](https://media.giphy.com/media/HY3zbRaDzNJlpw0FRK/giphy.gif)
+![Gif pacientes](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQwY2h3Nms2OTR2NTU3cXhxcmxvOGJ0N2IwYWZ0OHZ5MmJrOHc2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XHa4ZL4m9H649GSXx2/giphy.gif)
+
 
 ![Xampp gif pacientes](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EzdmhiMTJzbTNwZWpxOWFkNG1vNWtpZzlqb2JwY29oczA3cHQ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kuPxZ4aNhbiRbwO4d4/giphy.gif)
 
