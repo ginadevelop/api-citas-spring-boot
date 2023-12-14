@@ -85,6 +85,8 @@ inicialmente, luego siga las instrucciones indicadas:
 
 # Citas
 
+[![Xampp photo](https://i.postimg.cc/SNH1q0hx/Whats-App-Image-2023-12-14-at-12-30-48-PM.jpg)](https://postimg.cc/Yhfzfs05)
+
 <hr>
 
 # Paciente
