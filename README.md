@@ -104,4 +104,4 @@ inicialmente, luego siga las instrucciones indicadas:
 
 <hr>
 
-[! ]
+Los gifs son creados gracias a <a><a/>
