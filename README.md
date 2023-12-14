@@ -98,7 +98,9 @@ inicialmente, luego siga las instrucciones indicadas:
 
 # Doctores
 
-![Gif doctores](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN3MTU2YnQ1Mm05d3JleWx1djViMmdscHJ2M2lscXUwNGdoZmU3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uuzv5pQZXRwcUn2oYM/giphy.gif)
+![GIf doctores](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdiM2YwemRrN3Fna2h0c3l1Njhkbm1zNDJkaG1hY3lnb3ZheWpuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CL4UQxwokICH3r6PTq/giphy.gif)
+
+
 
 ![Xampp gif doctor](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2x5NmxyaTc0ZDZvNm5hbWhuYmdtNnU3OTY1Z2drNnBld3Z3MW1mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oAJE0alCwJXciu4pCX/giphy.gif)
 
