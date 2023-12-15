@@ -85,6 +85,10 @@ inicialmente, luego siga las instrucciones indicadas:
 
 # Citas
 
+![Texto alternativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVycXpsZHJ2MjZzbXFlM2N2ejMwaW1jYnRjcmcxcHM4enEzenRiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBo9FTI90Jtkm9A9Ii/giphy.gif)
+
+[![Whats-App-Image-2023-12-14-at-12-30-48-PM.jpg](https://i.postimg.cc/SNH1q0hx/Whats-App-Image-2023-12-14-at-12-30-48-PM.jpg)](https://postimg.cc/Yhfzfs05)
+
 <hr>
 
 # Paciente
